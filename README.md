@@ -6,6 +6,10 @@
 ![Active Directory](https://img.shields.io/badge/Active_Directory-AD_DS-0052CC?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+## 🖥️ Enterprise Windows Server Administration Lab
+
+A complete enterprise-grade Windows Server 2022 infrastructure built using VMware Workstation Pro and Cisco Packet Tracer. This project demonstrates real-world implementation of Active Directory, DNS, DHCP, Group Policy, File Sharing, VLANs, and Inter-VLAN Routing within a simulated enterprise network.
+
 ## Overview
 
 This project demonstrates the design, implementation, and validation of a **Windows Server 2022–based enterprise network** integrated with **Cisco networking technologies**. The lab environment simulates a real-world organizational infrastructure and showcases practical skills in Windows Server administration, Active Directory, network services, security policies, and Cisco networking.
