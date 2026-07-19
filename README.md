@@ -1,4 +1,10 @@
-# Enterprise Network Infrastructure using Windows Server 2022 and Cisco Packet Tracer
+# 🏢 Enterprise Network Infrastructure using Windows Server 2022 and Cisco Packet Tracer
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-607078?style=for-the-badge&logo=vmware)
+![Active Directory](https://img.shields.io/badge/Active_Directory-AD_DS-0052CC?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## Overview
 
