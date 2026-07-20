@@ -22,6 +22,42 @@ This project was independently designed and implemented to demonstrate enterpris
 
 ---
 
+## ⭐ Key Highlights
+
+- Designed and deployed a complete Windows Server 2022 enterprise infrastructure.
+- Configured Active Directory Domain Services (AD DS) with Organizational Units and Security Groups.
+- Implemented DNS with Forward Lookup Zone, Reverse Lookup Zone, A, PTR, and CNAME records.
+- Configured DHCP for automatic IP address allocation.
+- Implemented Group Policy Objects (GPO) for centralized administration.
+- Configured secure SMB shared folders using Share and NTFS permissions.
+- Automated network drive mapping using Group Policy Preferences.
+- Designed VLAN-based enterprise network using Cisco Packet Tracer.
+- Configured Router-on-a-Stick for Inter-VLAN Routing.
+- Performed end-to-end testing and troubleshooting to validate the enterprise network.
+---
+
+## Network Topology
+
+The enterprise lab consists of:
+
+- Windows Server 2022 Domain Controller (**DC01**)
+- Windows 10 Client (**CLIENT01**)
+- Cisco Router
+- Cisco Layer-2 Switch
+- VLAN 10 (Servers)
+- VLAN 20 (Clients)
+
+The router provides **Inter-VLAN Routing** using the **Router-on-a-Stick** technique.
+
+> **Network Topology**
+
+<p align="center">
+<img src="Images/Network_Topology.png" width="750">
+</p>
+
+---
+
+
 ## Features
 
 - Windows Server 2022 Domain Controller Deployment
@@ -68,26 +104,6 @@ This project was independently designed and implemented to demonstrate enterpris
 
 ---
 
-## Network Topology
-
-The enterprise lab consists of:
-
-- Windows Server 2022 Domain Controller (**DC01**)
-- Windows 10 Client (**CLIENT01**)
-- Cisco Router
-- Cisco Layer-2 Switch
-- VLAN 10 (Servers)
-- VLAN 20 (Clients)
-
-The router provides **Inter-VLAN Routing** using the **Router-on-a-Stick** technique.
-
-> **Network Topology**
-
-<p align="center">
-<img src="Images/Network_Topology.png" width="750">
-</p>
-
----
 
 ## IP Addressing Scheme
 
@@ -212,39 +228,6 @@ After completing this project, I gained practical experience in:
 
 ---
 
-## ⭐ Key Highlights
-
-- Designed and deployed a complete Windows Server 2022 enterprise infrastructure.
-- Configured Active Directory Domain Services (AD DS) with Organizational Units and Security Groups.
-- Implemented DNS with Forward Lookup Zone, Reverse Lookup Zone, A, PTR, and CNAME records.
-- Configured DHCP for automatic IP address allocation.
-- Implemented Group Policy Objects (GPO) for centralized administration.
-- Configured secure SMB shared folders using Share and NTFS permissions.
-- Automated network drive mapping using Group Policy Preferences.
-- Designed VLAN-based enterprise network using Cisco Packet Tracer.
-- Configured Router-on-a-Stick for Inter-VLAN Routing.
-- Performed end-to-end testing and troubleshooting to validate the enterprise network.
----
-
-## Future Improvements
-
-- Deploy a Secondary Domain Controller
-- Configure DFS (Distributed File System)
-- Implement Windows Server Backup
-- Configure WSUS
-- Deploy Network Access Control (NAC)
-- Integrate Microsoft Entra ID (Azure AD)
-- Configure VPN for Remote Access
-- Integrate SIEM for Centralized Log Monitoring
-
----
-
-## Documentation
-
-Detailed implementation steps, screenshots, configuration procedures, testing results, and troubleshooting information are available in the project documentation included in this repository.
-
----
-
 ## 📈 Skills Gained
 
 ### Windows Server Administration
@@ -289,7 +272,7 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 ### Active Directory Users and Computers
 
 <p align="center">
-<img src="Screenshots/ADUC.png" width="850">
+<img src="Screenshots/ActiveDirectory.png" width="850">
 </p>
 
 ---
@@ -297,7 +280,7 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 ### DNS Configuration
 
 <p align="center">
-<img src="Screenshots/DNS.png" width="850">
+<img src="Screenshots/DNS_Configuration.png" width="850">
 </p>
 
 ---
@@ -313,7 +296,7 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 ### Group Policy Management
 
 <p align="center">
-<img src="Screenshots/GPO.png" width="850">
+<img src="Screenshots/GroupPolicy.png" width="850">
 </p>
 
 ---
@@ -333,11 +316,32 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 </p>
 
 ---
+
+## Future Improvements
+
+- Deploy a Secondary Domain Controller
+- Configure DFS (Distributed File System)
+- Implement Windows Server Backup
+- Configure WSUS
+- Deploy Network Access Control (NAC)
+- Integrate Microsoft Entra ID (Azure AD)
+- Configure VPN for Remote Access
+- Integrate SIEM for Centralized Log Monitoring
+
+---
+
+## Documentation
+
+Detailed implementation steps, screenshots, configuration procedures, testing results, and troubleshooting information are available in the project documentation included in this repository.
+
+---
+
+
 ## 👨‍💻 Author
 
 **Ashish Pathak**
 
-Computer Science Engineering Student
+Computer Science Engineering Undergraduate
 
 ### Interests
 
@@ -355,4 +359,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ## License
 
-This project was developed independently for learning, portfolio demonstration, and practical enterprise networking experience. It may be freely used for educational and non-commercial purposes.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
