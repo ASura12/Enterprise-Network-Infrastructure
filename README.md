@@ -22,6 +22,15 @@ This project was independently designed and implemented to demonstrate enterpris
 
 ---
 
+## 🎯 Project Goals
+
+- Simulate a real-world enterprise network.
+- Deploy Windows Server 2022 as a Domain Controller.
+- Configure enterprise services such as AD DS, DNS, DHCP, and Group Policy.
+- Design VLAN-based networking using Cisco Packet Tracer.
+- Implement secure shared folder access using NTFS and Share permissions.
+- Demonstrate enterprise-level system administration and troubleshooting skills.
+
 ## ⭐ Key Highlights
 
 - Designed and deployed a complete Windows Server 2022 enterprise infrastructure.
