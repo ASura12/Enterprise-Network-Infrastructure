@@ -276,20 +276,61 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 - Network Documentation
 - Security Group Management
 
-## Screenshots
+## 📸 Project Screenshots
 
-The complete project screenshots are available inside the **Screenshots** folder.
+### Windows Server Dashboard
 
-Example screenshots include:
+<p align="center">
+<img src="Screenshots/ServerManager.png" width="850">
+</p>
 
-- Server Manager Dashboard
-- Active Directory Users and Computers
-- DNS Manager
-- DHCP Manager
-- Group Policy Management
-- Shared Folder Permissions
-- Network Drive Mapping
-- Cisco Packet Tracer Topology
+---
+
+### Active Directory Users and Computers
+
+<p align="center">
+<img src="Screenshots/ADUC.png" width="850">
+</p>
+
+---
+
+### DNS Configuration
+
+<p align="center">
+<img src="Screenshots/DNS.png" width="850">
+</p>
+
+---
+
+### DHCP Configuration
+
+<p align="center">
+<img src="Screenshots/DHCP.png" width="850">
+</p>
+
+---
+
+### Group Policy Management
+
+<p align="center">
+<img src="Screenshots/GPO.png" width="850">
+</p>
+
+---
+
+### Network Drive Mapping
+
+<p align="center">
+<img src="Screenshots/ZDrive.png" width="850">
+</p>
+
+---
+
+### Cisco Packet Tracer Topology
+
+<p align="center">
+<img src="Screenshots/Topology.png" width="850">
+</p>
 
 ---
 ## 👨‍💻 Author
