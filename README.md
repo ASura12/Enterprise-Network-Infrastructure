@@ -16,6 +16,10 @@ This project demonstrates the design, implementation, and validation of a **Wind
 
 The environment was built using **VMware Workstation Pro** for virtualization and **Cisco Packet Tracer** for network topology design.
 
+## 🎯 Project Summary
+
+This project was independently designed and implemented to demonstrate enterprise-level Windows Server administration and Cisco networking skills. The objective was to simulate a real-world organizational environment by integrating Active Directory, DNS, DHCP, Group Policy, secure file sharing, and VLAN-based networking. The implementation emphasizes practical system administration, network configuration, centralized management, and troubleshooting techniques commonly used in enterprise IT environments.
+
 ---
 
 ## Features
@@ -164,6 +168,15 @@ The following functionalities were successfully validated:
 
 ---
 
+## 📂 Repository Contents
+
+- 📄 Complete Project Documentation
+- 📄 README
+- 🖼️ Network Topology
+- 📷 30+ Configuration Screenshots
+- 🌐 Cisco Packet Tracer File
+- 💻 VMware Lab Configuration
+
 ## Repository Structure
 
 ```text
@@ -183,6 +196,19 @@ Enterprise-Network-Infrastructure/
 └── Images/
     └── Network_Topology.png
 ```
+
+## 🚀 Learning Outcomes
+
+After completing this project, I gained practical experience in:
+
+- Building an Active Directory domain from scratch.
+- Managing users, groups, and Organizational Units.
+- Deploying enterprise DNS and DHCP services.
+- Implementing Group Policy for centralized management.
+- Configuring secure file sharing with Share and NTFS permissions.
+- Designing VLAN-based enterprise networks.
+- Configuring Inter-VLAN Routing using Router-on-a-Stick.
+- Troubleshooting enterprise networking and Windows Server issues.
 
 ---
 
