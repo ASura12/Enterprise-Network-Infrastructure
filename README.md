@@ -174,7 +174,7 @@ Enterprise-Network-Infrastructure/
 ├── PacketTracer/
 │   └── Enterprise_Network.pkt
 ├── Documentation/
-│   └── Project_Documentation.pdf
+│   └── Project_Documentation.doc
 ├── Screenshots/
 │   ├── Figure1.png
 │   ├── Figure2.png
