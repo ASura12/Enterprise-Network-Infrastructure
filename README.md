@@ -186,24 +186,18 @@ Enterprise-Network-Infrastructure/
 
 ---
 
-## Skills Demonstrated
+## ⭐ Key Highlights
 
-- Windows Server Administration
-- Active Directory Administration
-- DNS Administration
-- DHCP Configuration
-- Group Policy Management
-- Shared Folder Administration
-- NTFS Permission Management
-- Active Directory Security Groups
-- Enterprise Network Design
-- Cisco Switching
-- Cisco Routing
-- VLAN Configuration
-- Inter-VLAN Routing
-- Enterprise Troubleshooting
-- Technical Documentation
-
+- Designed and deployed a complete Windows Server 2022 enterprise infrastructure.
+- Configured Active Directory Domain Services (AD DS) with Organizational Units and Security Groups.
+- Implemented DNS with Forward Lookup Zone, Reverse Lookup Zone, A, PTR, and CNAME records.
+- Configured DHCP for automatic IP address allocation.
+- Implemented Group Policy Objects (GPO) for centralized administration.
+- Configured secure SMB shared folders using Share and NTFS permissions.
+- Automated network drive mapping using Group Policy Preferences.
+- Designed VLAN-based enterprise network using Cisco Packet Tracer.
+- Configured Router-on-a-Stick for Inter-VLAN Routing.
+- Performed end-to-end testing and troubleshooting to validate the enterprise network.
 ---
 
 ## Future Improvements
@@ -225,6 +219,37 @@ Detailed implementation steps, screenshots, configuration procedures, testing re
 
 ---
 
+## 📈 Skills Gained
+
+### Windows Server Administration
+
+- Active Directory
+- DNS
+- DHCP
+- Group Policy
+- File Server
+- NTFS Permissions
+- Share Permissions
+- Windows Server Roles
+
+### Networking
+
+- VLAN Configuration
+- Router-on-a-Stick
+- Cisco Switching
+- Cisco Routing
+- IP Address Planning
+- DNS Resolution
+- DHCP Configuration
+
+### System Administration
+
+- VMware Virtualization
+- Domain Administration
+- Enterprise Troubleshooting
+- Network Documentation
+- Security Group Management
+
 ## Screenshots
 
 The complete project screenshots are available inside the **Screenshots** folder.
@@ -241,25 +266,25 @@ Example screenshots include:
 - Cisco Packet Tracer Topology
 
 ---
-
-## Author
+## 👨‍💻 Author
 
 **Ashish Pathak**
 
 Computer Science Engineering Student
 
-**Areas of Interest**
+### Interests
 
 - Network Engineering
 - Windows Server Administration
 - Cybersecurity
 - System Administration
+- Enterprise Infrastructure
 
-**GitHub**
+### GitHub
 
 https://github.com/ASura12
 
----
+If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ## License
 
